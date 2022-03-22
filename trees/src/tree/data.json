@@ -1,1 +1,28 @@
-{}
+{
+    "mammals": [
+        {
+            "value": "cheetah",
+            "spacing": 3
+        },
+        {
+            "value": "bear",
+            "spacing": 3
+        },
+        {
+            "value": "lion",
+            "spacing": 6
+        },
+        {
+            "value": "dog",
+            "spacing": 6
+        },
+        {
+            "value": "elephant",
+            "spacing": 9
+        },
+        {
+            "value": "ape",
+            "spacing": 3
+        }
+    ]
+}
