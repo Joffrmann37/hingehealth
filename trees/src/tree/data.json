@@ -1,28 +1,46 @@
 {
-    "mammals": [
+    "animals": [
+        {
+            "value": "mammals",
+            "spacing": 0,
+            "node": 1,
+            "insertNode": 5
+        },
         {
             "value": "cheetah",
-            "spacing": 3
+            "spacing": 3,
+            "node": 2,
+            "insertNode": 2
         },
         {
             "value": "bear",
-            "spacing": 3
+            "spacing": 3,
+            "node": 2,
+            "insertNode": 3
         },
         {
             "value": "lion",
-            "spacing": 6
+            "spacing": 6,
+            "node": 3,
+            "insertNode": 3
         },
         {
             "value": "dog",
-            "spacing": 6
+            "spacing": 6,
+            "node": 3,
+            "insertNode": 4
         },
         {
             "value": "elephant",
-            "spacing": 9
+            "spacing": 9,
+            "node": 4,
+            "insertNode": 4
         },
         {
             "value": "ape",
-            "spacing": 3
+            "spacing": 3,
+            "node": 5,
+            "insertNode": 5
         }
     ]
 }

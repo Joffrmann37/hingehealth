@@ -16,3 +16,10 @@
 .fifteenSpacer {
     margin-left: 9.0rem;
 }
+
+input {
+    margin-left: 10;
+    border-color: #FF5E34;
+    flex: 1;
+    justify-content: space-between;
+}
