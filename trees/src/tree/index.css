@@ -4,3 +4,15 @@
     padding: 10px;
     font-family: monospace
 }
+
+.fiveSpacer {
+    margin-left: 3.0rem;
+}
+
+.tenSpacer {
+    margin-left: 6.0rem
+}
+
+.fifteenSpacer {
+    margin-left: 9.0rem;
+}
